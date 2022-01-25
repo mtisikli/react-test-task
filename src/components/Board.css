@@ -1,0 +1,26 @@
+.board-wrapper {
+  grid-row-start: 2;
+  grid-column-start: 2;
+}
+
+.board {
+  margin-bottom: 20px;
+  width: 700px;
+  height: 700px;
+  border: 1px solid #eee;
+}
+
+.correct-letter {
+  background-color: #538d4e;
+  color: #d7dadc;
+}
+
+.correct-position {
+  background-color: #b59f3b;
+  color: #d7dadc;
+}
+
+.wrong-letter {
+  background-color: #3a3a3c;
+  color: #d7dadc;
+}

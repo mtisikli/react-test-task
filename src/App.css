@@ -1,0 +1,6 @@
+.App {
+  display: grid;
+  grid-template-columns: auto 700px auto;
+  grid-template-rows: auto 700px auto;
+  grid-gap: 20px;
+}
